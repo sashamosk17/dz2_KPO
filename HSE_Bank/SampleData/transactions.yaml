@@ -1,0 +1,23 @@
+﻿- Id: 1
+  Type: Income
+  BankAccountId: 1
+  Amount: 75000.00
+  Date: 2025-11-01
+  Description: Зарплата за октябрь
+  CategoryId: 1
+
+- Id: 2
+  Type: Expense
+  BankAccountId: 1
+  Amount: -3500.00
+  Date: 2025-11-02
+  Description: Покупка продуктов
+  CategoryId: 2
+
+- Id: 3
+  Type: Expense
+  BankAccountId: 1
+  Amount: -1200.00
+  Date: 2025-11-03
+  Description: Проездной на метро
+  CategoryId: 3
